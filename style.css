@@ -9,7 +9,7 @@
 h2 {
   font-size: 2em;
   
-  font-family: megrim, fantasy;
+  font-family: niconne, fantasy;
     padding: 40px;
   margin: 0;
   color: #333;
@@ -19,7 +19,7 @@ h2 {
 h1 {
   font-size: 2em;
   
-  font-family: megrim, fantasy;
+  font-family: niconne, fantasy;
     padding: 40px;
   margin: 0;
   color: #330a76;
@@ -36,7 +36,7 @@ ul {
 }
 
 li {
-  font-family: megrim, fantasy;
+  font-family: niconne, fantasy;
   font-size: 2em;
   padding: 40px;
   
@@ -68,7 +68,7 @@ li input[type="checkbox"] {
   border: none;
   padding: 40px 0;
   font-size: 2em;
-  font-family: megrim, fantasy;
+  font-family: niconne, fantasy;
   text-indent: 55px;
 }
 .add-btn {
@@ -81,7 +81,7 @@ li input[type="checkbox"] {
    background: #29F4E3;
    padding: 0;
    font-size: 4em;
-   font-family: megrim, fantasy;
+   font-family: niconne, fantasy;
    color: #333;
   }
 }
@@ -92,6 +92,6 @@ li input[type="checkbox"] {
   height: 100px;
   background: #20360B80;
   font-size: 2em;
-  font-family: megrim, fantasy;
+  font-family: niconne, fantasy;
   color: #aaa;
 }
